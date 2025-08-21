@@ -8,4 +8,4 @@ This repository is built step by step in the tutorial.
 
 It now include steps for GitHub
 
-Example for push branch to GitHub 
+Example for push branch to GitHub .
